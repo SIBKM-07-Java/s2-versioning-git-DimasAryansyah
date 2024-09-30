@@ -8,3 +8,11 @@ pasti tetap semangat...
 ### belajar three way merge - main
 
 ### belajar three way merge - develop
+
+## Tugas 1:Versioning
+
+### Fast Forward
+1. Buat Project Baru (Git Init)
+2. Buat Branch Parent
+3. Buat Commit Awal di Parent
+![Hasilnya](./FastForward/FastForwadProject(1).png)
