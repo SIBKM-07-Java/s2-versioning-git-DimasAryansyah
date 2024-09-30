@@ -1,1 +1,2 @@
 Hallo, nama saya Dimas Aryansyah.
+Saya sedang mengikuti SIBKM Batch 7 di Metrodata Academy kelas Fullstack Java Developer.
